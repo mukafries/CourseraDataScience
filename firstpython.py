@@ -5,4 +5,4 @@ def addNumbers(a, b){
   return a+b
 }
 
-print(num1, num2)
+print(addNumbers(num1,num2))
